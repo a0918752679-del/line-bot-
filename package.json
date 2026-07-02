@@ -1,0 +1,16 @@
+{
+  "name": "newtaipei-noise-control-system-v56-light-flip-rich-menu-sheet-modal",
+  "version": "56.0.0",
+  "description": "NTPC noise vehicle control hub V56 with larger light flip-style LINE rich menu, text-only command help, execution-only result summaries, and modal Google Sheet password gateway.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node -c server.js",
+    "build": "echo No build step required"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {}
+}
